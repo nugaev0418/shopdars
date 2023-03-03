@@ -1,3 +1,3 @@
 <?php
 
-echo "Bu file Sardor Nugaev tomonidan yaratilgan";
+echo "Bu file Nugaev tomonidan yaratilgan";
