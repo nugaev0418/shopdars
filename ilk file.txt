@@ -1,2 +1,2 @@
 PHP backend dasturlash tili
-HTML web dasturlash tili
+HTML dasturlash tili emas!
